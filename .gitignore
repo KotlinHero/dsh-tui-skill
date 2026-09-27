@@ -1,0 +1,14 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Tooling
+node_modules/
+.idea/
+.vscode/
+
+# scratch
+*.log
+*.tmp
